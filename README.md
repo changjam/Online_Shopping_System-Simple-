@@ -1,6 +1,8 @@
 # ONLINE-SHOPPING-SYSTEM
 資料庫課程的專案。
-## 技術
+![image](https://github.com/changjam/IMG/blob/master/OnlineShopping_1.png)
+![image](https://github.com/changjam/IMG/blob/master/OnlineShopping_2.png)
+## 使用技術
 PHP、MySQL、HTML、JS、CSS
 ## 功能簡介  
 - Login：提供使用者登入  
